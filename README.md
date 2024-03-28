@@ -16,7 +16,16 @@ Beach wracks consist mainly of seagrasses and seaweeds washed ashore by storms, 
 (45 samples, paired-end reads) submmited to European Nucleotide Archive (ENA: https://www.ebi.ac.uk/ena/browser/search) under project number PRJEBxxxxx
 
 ## Qiime2 code
-
+Whole bioinformatic pipeline composed of steps:
+1. Environment activation
+2. Data import
+3. Data denoise
+4. Feature table generation
+5. Taxonomy assignment
+6. Feature table & representative sequences filtering
+7. Phylogenetic tree reconstruction
+8. Alpha & Beta Diversity
 ## Analysis output visualizations
-
+.qzv artifact visualizations of all bioinformatic pipeline steps available for viewing interactively via view.qiime2.org
 ## Metadata table
+Full metadata table describing each sample, variable for their discriminations and sample groups
