@@ -31,9 +31,9 @@ https://github.com/majamucko/Kolda-Mucko-et-al.-2024_Beach-wracks/blob/main/Beac
 ## Analysis output visualizations
 .qzv artifact visualizations of all bioinformatic pipeline steps available for viewing interactively via view.qiime2.org
 
-https://github.com/majamucko/Kolda-Mucko-et-al.-2024_Beach-wracks/tree/main/qzv
+[https://github.com/majamucko/Kolda-Mucko-et-al.-2024_Beach-wracks/tree/main/qzv](https://github.com/majamucko/Kolda-Mucko-et-al.-2024_Beach-wracks/tree/main/Visualizations)
 
 ## Metadata table
 Full metadata table describing each sample, variable for their discriminations and sample groups
 
-https://github.com/majamucko/Kolda-Mucko-et-al.-2024_Beach-wracks/blob/main/metadata_metalpath.tsv
+[https://github.com/majamucko/Kolda-Mucko-et-al.-2024_Beach-wracks/blob/main/metadata_metalpath.tsv](https://github.com/majamucko/Kolda-Mucko-et-al.-2024_Beach-wracks/blob/main/metadata_metalpath.tsv)
